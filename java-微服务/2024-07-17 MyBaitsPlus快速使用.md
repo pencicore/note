@@ -1,5 +1,7 @@
 # 快速入门
 
+**官网网址**：https://baomidou.com/introduce/
+
 
 
 ### 部分理解
@@ -75,5 +77,5 @@ public interface UserMapper extends BaseMapper<User> {
 
 ### 常用配置
 
-![image-20240718204309432](C:\Users\86183\Desktop\笔记\note\java-微服务\图片\MyBaitsPlus常用配置)
+![image-20240718204309432](图片\MyBaitsPlus常用配置.jpg)
 
